@@ -1,0 +1,13 @@
+.containerTable{
+  width: 1000px;
+  overflow: auto;
+}
+
+.header{
+  margin-bottom: 50px;
+}
+
+.tdFilmes{
+  width: 190px;
+  display: block;
+}

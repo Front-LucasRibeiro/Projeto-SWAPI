@@ -1,0 +1,23 @@
+﻿Master Data V2
+
+PUT - apaga tudo e salva o que foi enviado
+PATCH - Só atualiza o que mandou
+
+schemas
+hook
+webhook
+
+  renderTeste(){
+    let retorno = null;
+
+    if(this.state.teste === 132 ){
+      retorno ="2222";
+    }else{
+      retorno ="3333";
+    }
+
+    return retorno;
+  }
+
+axios
+https://swapi.co/

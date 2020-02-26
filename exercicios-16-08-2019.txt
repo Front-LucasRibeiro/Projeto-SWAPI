@@ -1,0 +1,3 @@
+criar componentes
+passar estados de um componente para outro
+passar funcoes de um componente para outro
